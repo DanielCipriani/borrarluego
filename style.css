@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 
+{
+margin: 0 auto;
+background:red;
+
+}
+
+section{
+    margin: auto 0;
+    border:solid #00000000 3px;
+}
